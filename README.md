@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kresimirmarkota
-- 👀 Computer Vision, Robotics, Mobile Aplications
-- 🌱 Kotlin
+- 👀 Data Science, Mobile Aplications, Game Dev 
+- 🌱 Kotlin, Python, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 https://www.linkedin.com/in/kre%C5%A1imir-markota-9b8471b8/
 
